@@ -1,2 +1,2 @@
 # TouristerADS
-My very first app deployed on heroku
+My very first app deployed
